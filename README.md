@@ -17,7 +17,7 @@ guidance.
 
 ## 🔗 Live demo
 
-**https://smittystuff.github.io/vendor-security-assessment-demo/**
+**https://itnet-steven-smith.github.io/vendor-security-assessment-demo/**
 
 ## About
 
